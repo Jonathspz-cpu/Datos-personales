@@ -1,6 +1,5 @@
 <html>
   <head>
-    <title>Mi pagina web</title>
   </head>
   <body>
     <font face="Arial Black">
